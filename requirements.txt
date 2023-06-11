@@ -1,6 +1,6 @@
 anyio==3.6.1
 asgiref==3.5.2
-certifi==2022.9.24
+certifi==2022.12.07
 chardet==3.0.4
 charset-normalizer==2.1.1
 click==8.1.3
