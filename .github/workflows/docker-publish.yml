@@ -44,6 +44,7 @@ jobs:
           api-key: ${{ secrets.BC_API_KEY }}
           output_format: cli,sarif
           output_file_path: console,results.sarif
+          use_enforcement_rules: true
       #   continue-on-error: true
 
       # - name: Upload SARIF file
